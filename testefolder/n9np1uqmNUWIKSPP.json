@@ -49,7 +49,7 @@
       }
     },
     "HP": {
-      "value": 8,
+      "value": 9,
       "min": 0,
       "max": 10,
       "points": 0
