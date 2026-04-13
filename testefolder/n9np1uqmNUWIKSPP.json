@@ -6,7 +6,7 @@
   "system": {
     "attributes": {
       "ST": {
-        "import": 10,
+        "import": 12,
         "value": 10,
         "points": 0,
         "dtype": "Number"
