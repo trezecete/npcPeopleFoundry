@@ -2,7 +2,7 @@
   "name": "Silvo Pescoturta",
   "type": "character",
   "_id": "n9np1uqmNUWIKSPP",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "tokenizer/pc-images/silvo_pescoturta.Avatar.UWx6b53wvPJYXgBI.webp",
   "system": {
     "attributes": {
       "ST": {
@@ -1289,7 +1289,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "tokenizer/pc-images/silvo_pescoturta.Avatar.UWx6b53wvPJYXgBI.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -1393,7 +1393,7 @@
     "systemId": "gurps",
     "systemVersion": "0.18.15",
     "createdTime": 1776113470402,
-    "modifiedTime": 1776117139625,
+    "modifiedTime": 1776117331554,
     "lastModifiedBy": "bZhS50Pszf645Ajr"
   }
 }
